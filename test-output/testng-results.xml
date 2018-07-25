@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26" started-at="2018-04-21T09:42:38Z" finished-at="2018-04-21T09:42:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26" started-at="2018-04-21T09:42:38Z" finished-at="2018-04-21T09:42:38Z">
+      <class name="TestNG.Second">
+        <test-method status="PASS" signature="BC3()[pri:0, instance:TestNG.Second@28d25987]" name="BC3" is-config="true" duration-ms="0" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC3 -->
+        <test-method status="PASS" signature="TC3()[pri:0, instance:TestNG.Second@28d25987]" name="TC3" duration-ms="5" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="AC3()[pri:0, instance:TestNG.Second@28d25987]" name="AC3" is-config="true" duration-ms="1" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC3 -->
+      </class> <!-- TestNG.Second -->
+      <class name="TestNG.first">
+        <test-method status="PASS" signature="TC1()[pri:1, instance:TestNG.first@4501b7af]" name="TC1" duration-ms="1" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:TestNG.first@4501b7af]" name="BM" is-config="true" duration-ms="0" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="AM()[pri:0, instance:TestNG.first@4501b7af]" name="AM" is-config="true" duration-ms="1" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method status="PASS" signature="TC2()[pri:2, instance:TestNG.first@4501b7af]" name="TC2" duration-ms="1" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:TestNG.first@4501b7af]" name="BM" is-config="true" duration-ms="0" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="AM()[pri:0, instance:TestNG.first@4501b7af]" name="AM" is-config="true" duration-ms="0" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+      </class> <!-- TestNG.first -->
+      <class name="TestNG.Third">
+        <test-method status="PASS" signature="BS()[pri:0, instance:TestNG.Third@59fa1d9b]" name="BS" is-config="true" duration-ms="7" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method status="PASS" signature="BT()[pri:0, instance:TestNG.Third@59fa1d9b]" name="BT" is-config="true" duration-ms="0" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="TC4()[pri:0, instance:TestNG.Third@59fa1d9b]" name="TC4" duration-ms="0" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:TestNG.Third@59fa1d9b]" name="AT" is-config="true" duration-ms="1" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method status="PASS" signature="AS()[pri:0, instance:TestNG.Third@59fa1d9b]" name="AS" is-config="true" duration-ms="1" started-at="2018-04-21T15:12:38Z" finished-at="2018-04-21T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- TestNG.Third -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
